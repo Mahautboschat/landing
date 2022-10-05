@@ -32,7 +32,7 @@ p {
 }
 
 .banner {
-  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/background.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://www.alombredupalais.com/wp-content/uploads/2021/12/Comment-bien-choisir-ses-bijoux.jpg');
   background-size: cover;
   background-position: center;
   padding: 150px 0;
@@ -73,7 +73,7 @@ p {
   text-align: center;
   padding: 24px;
   margin: 8px;
-}
+} 
 
 .card-white img {
   width: 180px;
